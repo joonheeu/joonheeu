@@ -1,56 +1,57 @@
-## Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoonheeu%2Fhit-counter&count_bg=%23555555&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false)](https://hits.seeyoufarm.com)
 
-I'm a versatile developer with a strong foundation in both frontend and backend technologies. My passion lies in building efficient and scalable web applications that solve real-world problems. 
+## 👾 Hey, curious coder! Welcome to my GitHub! 🚀
+
+I'm a developer with a strong foundation in both frontend and backend technologies. I love building scalable web applications that solve real-world problems.
 
 ### 🔧 Technologies & Tools
 
-**Frontend**
-- React.js
-- Next.js
-- Prisma
+```mermaid
+mindmap
+  root((Technologies))
+    Frontend
+      React.js
+      Next.js
+      Prisma
+    Backend
+      Node.js
+      Java
+      Spring
+    Databases
+      MySQL
+      MariaDB
+      SQLite
+      PostgreSQL
+    WebWAS
+      Tomcat
+      Apache
+      Nginx
+      PM2
+    OperatingSystems
+      MacOS
+      Windows
+      Linux
+    Others
+      SEO
+      AWS
+      GitHub
+```
 
-**Backend**
-- Node.js
-- Java
-- Spring
+### 💼 Current Work
+- Currently developing an automated cryptocurrency trading service, focusing on researching and refining investment strategy algorithms.
 
-**Databases**
-- MySQL
-- MariaDB
-- SQLite
-- PostgreSQL
+### 🌱 Learning
+- Recently started learning Kysely to enhance my database management skills.
 
-**Web/WAS**
-- Tomcat
-- Apache
-- Nginx
-- PM2
+### 🤝 Collaboration
+- Interested in creating small, profitable services, and open to collaborating in these areas.
 
-**Operating Systems**
-- MacOS
-- Windows
-- Linux
-
-**Others**
-- SEO
-- AWS
-- GitHub
-
-### 💼 What I'm currently working on
-- I'm currently working on [your current project or job]. I'm focusing on [specific aspect of the project, e.g., optimizing backend performance, building a responsive UI, etc.].
-
-### 🌱 What I'm learning
-- I'm currently diving deeper into [technology you're learning, e.g., advanced React patterns, cloud architecture, etc.], aiming to enhance my skills and stay updated with the latest trends in the tech industry.
-
-### 🤝 Let's collaborate
-- I'm always open to collaborating on exciting projects, especially those that involve [specific areas of interest, e.g., full-stack development, cloud computing, etc.].
-
-### 📫 How to reach me
-- Feel free to reach out via [preferred method of contact, e.g., email, LinkedIn, etc.].
+### 📫 Contact
+- Feel free to reach out via email at daniel@udit.one.
 
 ### ⚡ Fun fact
-- When I'm not coding, you can find me [your hobby or interest, e.g., exploring new hiking trails, experimenting with new recipes, etc.].
+- When I'm not coding, I enjoy interior design, 3D modeling, architecture, cryptocurrency, and singing.
 
 ---
 
-Feel free to explore my repositories and don't hesitate to get in touch if you have any questions or ideas you'd like to discuss!
+Feel free to explore my repositories and connect if you have any questions or ideas!
