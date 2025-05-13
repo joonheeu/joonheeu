@@ -47,7 +47,7 @@ mindmap
 - Interested in creating small, profitable services, and open to collaborating in these areas.
 
 ### 📫 Contact
-- Feel free to reach out via email at daniel@udit.one.
+- Feel free to reach out via email at daniel@udit.kr 
 
 ### ⚡ Fun fact
 - When I'm not coding, I enjoy interior design, 3D modeling, architecture, cryptocurrency, and singing.
